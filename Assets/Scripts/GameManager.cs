@@ -20,6 +20,7 @@ public class GameManager : MonoBehaviour
     private Spawner spawner;
     private int test;
     private int test2;
+    private int test3;
 
     private float score;
 
